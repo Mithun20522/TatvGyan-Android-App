@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TatvGyan</string>
+    <string name="welcome_msg">Welcome To The TatvGyan App</string>
+    <string name="btn_start">Start</string>
+    <string name="txt1"> धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः
+तस्माद् धर्मं न त्यजामि मा नो धर्मो हतोऽवधीत् </string>
+
+</resources>
